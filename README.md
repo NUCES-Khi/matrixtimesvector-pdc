@@ -1,4 +1,4 @@
-# PDC Assignments and Projects
+# PDC Assignment
 ## Team Members
 |std_id|Name|
 |--------|-|
